@@ -1,0 +1,149 @@
+.java{
+
+}
+.java h1{
+    background-color: yellow;
+    border-radius: 40px;
+    width: 40%;
+    margin: auto;
+    padding: 10px 0;
+}
+
+.j_info1{
+
+}
+.j_info1 h2{
+    color: yellow;
+    background-color: violet;
+    border-radius: 30px;
+    padding: 10px 0;
+}
+.j_info1 h3{
+    margin-bottom: 50px;
+    color: violet;
+
+
+}
+.j_info2{
+
+}
+.j_info2 h2{
+    color: rgb(0 255 175);
+    background-color: rgb(6, 161, 71);
+    border-radius: 30px;
+    padding: 10px 0;
+
+}
+.j_info2 h3{
+    margin-bottom: 50px;
+    color: rgb(6, 161, 71);
+
+
+}
+.j_info3{
+   
+
+}
+.j_info3 h2{
+    color: rgb(200, 0, 255);
+   background-color: rgb(130 234 238);
+    border-radius: 30px;
+    padding: 10px 0;
+
+}
+.j_info3 h3{
+    margin-bottom: 50px;
+    color:  rgb(130 234 238);
+
+}
+button{
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: rgb(235, 227, 238);
+    margin: 20px 0px 0px -650px;
+}
+.j_info1 .ts{
+    background-color: rgb(255, 0, 149);
+    cursor: pointer;
+}
+.j_info1 .th{
+    background-color: rgb(0, 255, 140);
+    display: none;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+#panel {
+    padding: 50px;
+    display: none;
+  }
+#panell, #flipp {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+#panell {
+    padding: 50px;
+  }
+#panelt, #flipt {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+#panelt {
+    padding: 50px;
+    display: none;
+  }
+#panelc, #flipc {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+  }
+  
+#panelc {
+    padding: 50px;
+    display: none;
+  }
+  .important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .blue {
+    color: rgb(149, 255, 0);
+  }
+  .bluee {
+    color: blue;
+  }
+  .bluet {
+    color: rgb(255, 0, 89);
+  }
+  #div1c {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
+  }
+  #div1d {
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 3px;
+    border: 1px solid blue;
+    background-color: lightblue;
+  }
